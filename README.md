@@ -1,5 +1,5 @@
 # Breakout
-A rendition of Atari's game coded in Rust using the Macroquad game engine
+A rendition of Atari's classic coded in Rust using the Macroquad game engine
 
 ![image](https://user-images.githubusercontent.com/96965321/187239615-80d265c1-3105-44fe-a4a9-6c92f5edd457.png)
 
